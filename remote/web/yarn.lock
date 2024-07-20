@@ -68,10 +68,10 @@ vscode-textmate@9.0.0:
   resolved "https://registry.yarnpkg.com/vscode-textmate/-/vscode-textmate-9.0.0.tgz#313c6c8792b0507aef35aeb81b6b370b37c44d6c"
   integrity sha512-Cl65diFGxz7gpwbav10HqiY/eVYTO1sjQpmRmV991Bj7wAoOAjGQ97PpQcXorDE2Uc4hnGWLY17xme+5t6MlSg==
 
-xterm-addon-canvas@0.6.0-beta.27:
-  version "0.6.0-beta.27"
-  resolved "https://registry.yarnpkg.com/xterm-addon-canvas/-/xterm-addon-canvas-0.6.0-beta.27.tgz#2517f050d165b093a3c3e564e4420ccc3ccbad75"
-  integrity sha512-mSxEJKPnXYKkD6/zQLdNH6kB+sr4B+4DMFzntWgxLjHJdyOO95wUSAtBFnhAUez2nNYvXbs/OXpEbdVdO7f2kQ==
+xterm-addon-canvas@0.12.0:
+  version "0.12.0"
+  resolved "https://registry.yarnpkg.com/xterm-addon-canvas/-/xterm-addon-canvas-0.12.0.tgz#6d17d45e15205e06ca40ee79c490e117c80f717a"
+  integrity sha512-NKPIOVW5zUxTd26R35+6ijRPPimT+THfsegxQdIdwE7FPMGMWmu4hnrvAOVGm++LoROBLsEJuSFtFB8aVgFiWA==
 
 xterm-addon-image@0.6.0-beta.21:
   version "0.6.0-beta.21"
